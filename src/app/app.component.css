@@ -1,17 +1,11 @@
-.container {
-  background-position: center center;
-  background-image: linear-gradient(to bottom, #3d5afe, #41e9f5);
-  height:100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+#breve{
+margin:50px
 }
 
 .coming-soon{
  color: #000;
  font-weight: bolder;
- font-size: 25px;
+ font-size: 20px;
  font-style: italic;
 }
 

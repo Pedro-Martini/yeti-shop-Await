@@ -1,6 +1,8 @@
 body
 {
   margin: 0;
+  background-position: center center;
+  background-image: linear-gradient(to bottom, #3d5afe, #41e9f5);
 }
 
 html, body { height: 100%; }
